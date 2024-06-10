@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kamal, a senior year Informatics student at Institut Teknologi Bandung.
+I'm Kamal, currently a Camera System Software Engineer.
 
 :mailbox: How to reach me:
 
